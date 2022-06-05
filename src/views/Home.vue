@@ -42,6 +42,7 @@ export default {
   //     let citiesSnapShot = await getDocs(citiesColRef);
   //     console.log(citiesSnapShot);
   //   },
+
   // },
   // created() {
   //   this.fetchCities();
